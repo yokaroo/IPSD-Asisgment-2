@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul Dasar-Dasar Python untuk Sains Data</h1>
+# <h1 align="center">Laporan Praktikum Modul Exploratory Data Analysis (EDA)</h1>
 <p align="center">Yoka Romadani</p>
 
 ## Dasar Teori
