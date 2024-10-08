@@ -32,7 +32,7 @@ df = pd.read_csv('Movie_classification.csv')
 ```
 menampilkan data Movie_classification.csv 
 
-### 3. Buat fungsi yang menampilkan apakah suatu angka adalah bilangan prima
+### 3. 
 
 ```python
 import pandas as pd
